@@ -1,0 +1,3 @@
+- i learn how to commit, pull and push my code to GitHub
+- i learn how to merge branches 
+- and how to collaborate on GitHub 
